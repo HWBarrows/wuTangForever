@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/wuTangForever/static/css/main.505a5f33.css",
-    "main.js": "/wuTangForever/static/js/main.e67b2e2e.js",
-    "static/media/wuTang.jpg": "/wuTangForever/static/media/wuTang.7d2516b0ebe84b1fc5e0.jpg",
-    "index.html": "/wuTangForever/index.html",
-    "main.505a5f33.css.map": "/wuTangForever/static/css/main.505a5f33.css.map",
-    "main.e67b2e2e.js.map": "/wuTangForever/static/js/main.e67b2e2e.js.map"
+    "main.css": "/static/css/main.3b2ec425.css",
+    "main.js": "/static/js/main.e67b2e2e.js",
+    "static/media/wuTang.jpg": "/static/media/wuTang.7d2516b0ebe84b1fc5e0.jpg",
+    "index.html": "/index.html",
+    "main.3b2ec425.css.map": "/static/css/main.3b2ec425.css.map",
+    "main.e67b2e2e.js.map": "/static/js/main.e67b2e2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.505a5f33.css",
+    "static/css/main.3b2ec425.css",
     "static/js/main.e67b2e2e.js"
   ]
 }
