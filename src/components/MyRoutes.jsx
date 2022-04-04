@@ -1,5 +1,4 @@
 import { Route, Routes } from 'react-router-dom'
-import Intro from './Intro.jsx'
 import { Rza, Gza,InspectahDeck, UGod, GhostfaceKillah, MethodMan, Raekwon, MastaKilla, Cappadonna, OldDirtyBastard } from '../wu.jsx'
 
 export default function MyRoutes() {

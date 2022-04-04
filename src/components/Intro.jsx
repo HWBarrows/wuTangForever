@@ -6,7 +6,7 @@ export default function Intro (){
     
     return (
 
-        <div className={introLocation === "/" ? "landing" : "wrapper"}>
+        <div className={introLocation === "/intro" || introLocation === "/" ? "landing" : "wrapper"}>
         
         <h1><NavLink to="intro">Forever</NavLink></h1>
             <div className="clearBack">
