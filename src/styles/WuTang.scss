@@ -1,0 +1,23 @@
+.bio {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 75vw;
+    display: flex;
+    gap: 2em;
+    padding: .5em;
+}
+
+.bioPic {
+    height: 50vh;
+    width:35vw;
+    background-size: cover;
+    background-position: center;
+}
+
+.bioText {
+    width: 90%;
+
+    q{
+        display: block;
+    }
+}

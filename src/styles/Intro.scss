@@ -1,0 +1,41 @@
+h1 {
+    font-family: 'Rock Salt', cursive;
+    margin:0;
+    padding: 0;
+}
+
+a {
+    background-color: rgba(0, 0, 0, 0); 
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+
+    &.active {
+          color:gold;
+    }
+}
+
+nav {
+
+    color:rgb(124, 122, 122);
+    width:85vw;
+    
+    
+    ul {
+        display: flex;
+        gap:1em;
+        justify-content: center;
+        
+        li {
+            list-style: none;
+            font-family: 'Rock Salt', cursive;
+            text-align: center;
+        }
+    }
+}
+
+.clearBack {
+    background-color: rgba(0, 0, 0, 0);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');

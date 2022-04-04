@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(8, 8, 8);
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0);
+} 
+
+.landing {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(../assets/wuTang.jpg);
+    background-size: cover;
+    background-position: top;
+    height:97vh;
+    width:100%;
+}
