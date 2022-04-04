@@ -7,7 +7,8 @@ export default function MyRoutes() {
     return (
             <Routes>
                     
-                    <Route path="/" element={<Intro />}/>
+                    <Route index element={<div />}/>
+                    <Route path="intro" element={<div />}/>
                     <Route path="rza" element={<Rza/>}/>
                     <Route path="gza" element={<Gza/>}/>
                     <Route path="inspectahDeck" element={<InspectahDeck/>}/>

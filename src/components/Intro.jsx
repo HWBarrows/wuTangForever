@@ -8,7 +8,7 @@ export default function Intro (){
 
         <div className={introLocation === "/" ? "landing" : "wrapper"}>
         
-            <h1><NavLink to="/">Forever</NavLink></h1>
+        <h1><NavLink to="intro">Forever</NavLink></h1>
             <div className="clearBack">
                 <nav className="clearBack">
                 <ul className="clearBack">    
