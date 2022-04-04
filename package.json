@@ -2,7 +2,7 @@
   "name": "wutang",
   "version": "1.0.0",
   "description": "",
-  // "main": "index.js",
+  "main": "index.js",
   "homepage": "http://hwbarrows.github.io/wuTangForever",
   "scripts": {
     "start": "react-scripts start",
