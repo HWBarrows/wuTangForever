@@ -10,7 +10,7 @@ export default function Intro (){
         
         <h1><NavLink to="intro">Forever</NavLink></h1>
             <div className="clearBack">
-                <nav className="clearBack">
+                
                 <ul className="clearBack">    
                 <li className="clearBack"><NavLink to="gza">Gza</NavLink></li>
                 <li className="clearBack"><NavLink to="rza">Rza</NavLink></li> 
@@ -23,7 +23,7 @@ export default function Intro (){
                 <li className="clearBack"><NavLink to="cappadonna">Cappadonna</NavLink></li> 
                 <li className="clearBack"><NavLink to="oldDirtyBastard">Old Dirty Bastard</NavLink></li>  
                 </ul>
-                </nav>
+               
             </div>
             
        </div>

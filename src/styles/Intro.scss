@@ -14,24 +14,22 @@ a {
           color:gold;
     }
 }
-
-nav {
-
-    color:rgb(124, 122, 122);
-    width:85vw;
-    
     
     ul {
+        color:rgb(124, 122, 122);
         display: flex;
-        gap:1em;
+        flex-wrap: wrap;
         justify-content: center;
-        
+        margin-right:15px;
         li {
             list-style: none;
             font-family: 'Rock Salt', cursive;
             text-align: center;
-        }
-    }
+            display: inline-block;
+            margin-right:.5em;
+            margin-left: .5em;
+        }     
+    
 }
 
 .clearBack {

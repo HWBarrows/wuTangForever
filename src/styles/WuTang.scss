@@ -3,6 +3,8 @@
     font-family: Arial, Helvetica, sans-serif;
     width: 75vw;
     display: flex;
+    justify-content: center;
+    align-items: center;
     gap: 2em;
     padding: .5em;
 }
@@ -19,5 +21,14 @@
 
     q{
         display: block;
+    }
+}
+
+@media screen and (max-width: 500px){
+    .bio{
+        flex-direction: column;
+        .bioPic {
+            width:90%;
+        }
     }
 }
